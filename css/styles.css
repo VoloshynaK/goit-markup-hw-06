@@ -100,7 +100,9 @@ button {
 .address .link:not(:last-child) {
     margin-right: 40px;
 }
-
+.site-nav-list {
+    display: flex;
+}
 .site-nav .link {
     display: block;
     padding-top: 24px;
